@@ -19,7 +19,7 @@ The application is _almost_ **production ready**.
 Step 1: Clone the repo
 
 ```bash
-git clone  https://github.com/Chinmayct7/Role-Based-Access-Control-RBAC-UI.git
+git clone  https://github.com/mrupangul/role-based-access-control-RBAC-UI.git
 ```
 
 Step 2: cd into the cloned repo and run:
